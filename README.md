@@ -1,4 +1,4 @@
-# BOT EN MANTENIMIENTO
+O# BOT EN MANTENIMIENTO
 
 ShanBot Bot Para Whatsapp by shanduy
 
@@ -10,39 +10,16 @@ ShanBot Bot Para Whatsapp by shanduy
 </p>
 
 <p align="center">
-    <img
-        src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
-
-<p align="center">
-<a href="https://github.com/shanduy"><img title="Creador" src="https://img.shields.io/badge/Author-Shanduy-purple.svg?style=for-the-badge&logo=github"></a>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCbNOLyHAy-SL4D9iz9Oi0lw"><img src="https://img.shields.io/badge/YouTube-thepavos-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtu.be/n9fUrhPf5-8-8" /></a>
-  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
-
-<p align="center">
-Mis Redes Sociales Y Mi Whatsapp Para Resolver Tus Problemas
-</p>
-
-<p align='center'>
-   <a href="https://www.instagram.com/thepavos/"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/580b57fcd9996e24bc43c521.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.youtube.com/watch?v=2LQSzEbpJ-M"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
+Mis  Whatsapp Para Resolver problemas con el bot
    <a href="https://wa.me/593967689722"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/d9d97d48264770f85d35c208f279152c.png?raw=true"></a>
 </P>
 
 
 
-# ShanBot
-ULTIMA VERSION 4.6
+# 
+ULTIMA VERSION 4.4
 
-Video actualizado: https://youtu.be/HxZYNgW9aI8
 
-Pasos para instalar el bot via termux
-https://www.youtube.com/watch?v=2LQSzEbpJ-M
 
 
 ## Como Actualizar Tu Bot 🔄
